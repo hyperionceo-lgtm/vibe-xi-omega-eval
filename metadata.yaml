@@ -30,7 +30,7 @@ tags:
   reasoning_effort: high
 
 assets:
-  repo: https://github.com/vibe-xi/vibe-xi-omega-eval
-  logs: https://github.com/vibe-xi/vibe-xi-omega-eval/tree/main/logs
-  trajs: https://github.com/vibe-xi/vibe-xi-omega-eval/tree/main/trajs
+  repo: https://github.com/hyperionceo-lgtm/vibe-xi-omega-eval
+  logs: https://github.com/hyperionceo-lgtm/vibe-xi-omega-eval/tree/main/logs
+  trajs: https://github.com/hyperionceo-lgtm/vibe-xi-omega-eval/tree/main/trajs
   predictions: assets/all_preds.jsonl
