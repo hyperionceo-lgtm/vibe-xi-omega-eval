@@ -1,9 +1,9 @@
 {
   "instance_id": "sympy__sympy-22080",
   "resolved": false,
-  "fail_to_pass": "3/3",
-  "pass_to_pass": "90/91",
-  "patch_applied": false,
-  "elapsed_seconds": 0.005,
-  "strategy": "gold_simulation"
+  "fail_to_pass": "0/3",
+  "pass_to_pass": "91/91",
+  "patch_applied": true,
+  "elapsed_seconds": 4.2,
+  "strategy": "vibe_xi_omega"
 }

@@ -1,9 +1,9 @@
 {
   "instance_id": "scikit-learn__scikit-learn-25973",
   "resolved": false,
-  "fail_to_pass": "1/1",
-  "pass_to_pass": "69/72",
-  "patch_applied": false,
-  "elapsed_seconds": 0.005,
-  "strategy": "gold_simulation"
+  "fail_to_pass": "0/1",
+  "pass_to_pass": "72/72",
+  "patch_applied": true,
+  "elapsed_seconds": 4.2,
+  "strategy": "vibe_xi_omega"
 }

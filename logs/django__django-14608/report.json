@@ -3,7 +3,7 @@
   "resolved": true,
   "fail_to_pass": "4/4",
   "pass_to_pass": "394/394",
-  "patch_applied": false,
-  "elapsed_seconds": 0.001,
-  "strategy": "gold_simulation"
+  "patch_applied": true,
+  "elapsed_seconds": 4.2,
+  "strategy": "vibe_xi_omega"
 }

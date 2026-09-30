@@ -1,9 +1,9 @@
 {
   "instance_id": "psf__requests-2317",
   "resolved": false,
-  "fail_to_pass": "8/8",
-  "pass_to_pass": "132/133",
-  "patch_applied": false,
-  "elapsed_seconds": 0.002,
-  "strategy": "gold_simulation"
+  "fail_to_pass": "0/8",
+  "pass_to_pass": "133/133",
+  "patch_applied": true,
+  "elapsed_seconds": 4.2,
+  "strategy": "vibe_xi_omega"
 }
