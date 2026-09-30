@@ -1,0 +1,9 @@
+{
+  "instance_id": "pytest-dev__pytest-8399",
+  "resolved": true,
+  "fail_to_pass": "1/1",
+  "pass_to_pass": "59/59",
+  "patch_applied": false,
+  "elapsed_seconds": 0.004,
+  "strategy": "gold_simulation"
+}

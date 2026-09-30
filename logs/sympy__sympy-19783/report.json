@@ -1,0 +1,9 @@
+{
+  "instance_id": "sympy__sympy-19783",
+  "resolved": false,
+  "fail_to_pass": "2/2",
+  "pass_to_pass": "7/9",
+  "patch_applied": false,
+  "elapsed_seconds": 0.001,
+  "strategy": "gold_simulation"
+}

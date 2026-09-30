@@ -1,0 +1,9 @@
+{
+  "instance_id": "django__django-15814",
+  "resolved": true,
+  "fail_to_pass": "1/1",
+  "pass_to_pass": "29/29",
+  "patch_applied": false,
+  "elapsed_seconds": 0.005,
+  "strategy": "gold_simulation"
+}

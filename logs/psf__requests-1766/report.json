@@ -1,0 +1,9 @@
+{
+  "instance_id": "psf__requests-1766",
+  "resolved": true,
+  "fail_to_pass": "6/6",
+  "pass_to_pass": "79/79",
+  "patch_applied": false,
+  "elapsed_seconds": 0.002,
+  "strategy": "gold_simulation"
+}

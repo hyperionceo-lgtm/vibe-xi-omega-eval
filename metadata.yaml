@@ -1,0 +1,36 @@
+# SWE-bench Verified Submission Metadata
+# VIBE-XI OMEGA
+# Submitted: 2026-09-29
+# Score: 83.80% (419/500)
+# https://www.swebench.com/
+
+info:
+  logo: assets/logo.png
+  name: VIBE-XI OMEGA
+  site: https://github.com/vibe-xi/omega
+  report: https://github.com/vibe-xi/omega
+  authors: VIBE-XI Team
+
+tags:
+  checked: false
+  model:
+    - vibe-xi-omega
+  org:
+    - vibe-xi
+
+  os_model: true
+  os_system: true
+  system:
+    attempts: 1
+
+  agent: VIBE-XI OMEGA
+  agent_org: vibe-xi
+  model_display: VIBE-XI OMEGA
+  model_org: vibe-xi
+  reasoning_effort: high
+
+assets:
+  repo: https://github.com/vibe-xi/vibe-xi-omega-eval
+  logs: https://github.com/vibe-xi/vibe-xi-omega-eval/tree/main/logs
+  trajs: https://github.com/vibe-xi/vibe-xi-omega-eval/tree/main/trajs
+  predictions: assets/all_preds.jsonl

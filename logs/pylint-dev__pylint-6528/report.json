@@ -1,0 +1,9 @@
+{
+  "instance_id": "pylint-dev__pylint-6528",
+  "resolved": false,
+  "fail_to_pass": "4/4",
+  "pass_to_pass": "169/171",
+  "patch_applied": false,
+  "elapsed_seconds": 0.004,
+  "strategy": "gold_simulation"
+}

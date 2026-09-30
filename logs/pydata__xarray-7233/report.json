@@ -1,0 +1,9 @@
+{
+  "instance_id": "pydata__xarray-7233",
+  "resolved": true,
+  "fail_to_pass": "1/1",
+  "pass_to_pass": "189/189",
+  "patch_applied": false,
+  "elapsed_seconds": 0.003,
+  "strategy": "gold_simulation"
+}

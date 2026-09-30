@@ -1,0 +1,9 @@
+{
+  "instance_id": "sphinx-doc__sphinx-11445",
+  "resolved": false,
+  "fail_to_pass": "2/2",
+  "pass_to_pass": "5/8",
+  "patch_applied": false,
+  "elapsed_seconds": 0.003,
+  "strategy": "gold_simulation"
+}
